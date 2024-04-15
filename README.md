@@ -2,18 +2,22 @@
 
 ## Welcome to My GitHub! 👋
 
-Hello! I'm Isaiah, a data analyst with a creative twist 🎨. Blending a Summa Cum Laude degree in English Creative Writing from Arizona State University with deep dives into data, machine learning, and AI, I thrive on turning complex data into compelling stories and actionable insights 📊.
+Hello! I'm Isaiah, a Data Scientist with a diverse background and broad set of domain knowledge. I have 3+ years experience working in business intelligence, blended with a Summa Cum Laude degree in English Creative Writing from Arizona State University, enabling me to effectively communicate technical solutions to people of tech and non-tech backgrounds.  
+
+I am currently leveling up my technical skills in a big way through TripleTen's 8 month Data Science program. I'm most excited to take on the Machine Learning modules at the back end of the program, as this is something I have had interest in for years. I am bullish yet practical on AI. With all the major advancements in past year, it became obvious to me that AI will have a tremendous impact on the economy and our day-to-day lives. Does a fully automated economy sound cool to me? Sure, but I'm mostly concerned about staying relevant and empowered to navigate an ever changing world.  
+
+I consider myself a jack of all trades, and am not afraid to jump into areas outside Data Science proper, i.e. software engineering, business strategy development, marketing, and even some mechanic and electrical engineering!
 
 ### What I Bring to the Table 🛠️
 
 - **Programming Languages**: Proficient in Python 🐍, with a knack for bringing data to life through code.
 - **Data Analysis Tools**: Skilled in SQL, Excel (including VBA), Power BI, Pandas, and Tableau for comprehensive data analysis and visualization 📈.
 - **Database Management**: Experienced in managing, cleaning, and preprocessing data to keep information accurate and accessible 📚.
-- **AI and Machine Learning**: A constant learner, I'm expanding my expertise in AI and machine learning, driven by a passion for the potential of data to transform industries and improve lives 💡.
+- **AI and Machine Learning**: Expert prompt engineer. As a constant learner, I'm expanding my expertise on the backend of AI and machine learning, driven by a passion for the immense potential of this emerging technology.  
 
 ### My Academic Background 🎓
 
-- **Continuing Education**: Currently enhancing my skills through an 8-month Data Science program at TripleTen Tech, focusing on Python programming, data analysis, and machine learning 🧠.
+- **Continuing Education**: Currently enhancing my skills through an 8-month Data Science program at TripleTen Tech, focusing on Python programming, data analysis, and machine learning 🧠. You can check out my completed projects for this program [here](https://github.com/IMMontoya/Data_projects_TripleTen).  
 - **Bachelor of Arts in English Creative Writing** from Arizona State University, graduating Summa Cum Laude. My journey through literature has given me a unique perspective on storytelling, critical thinking, and effective communication ✍️.
 
 ### Professional Experience 💼
@@ -33,7 +37,7 @@ My professional toolkit extends beyond data science, encompassing a wide array o
 - **Microcontroller Programming**: My self-taught expertise in microcontroller programming allows me to tackle projects involving automation and robotics with a hands-on, practical approach to creating solutions 🤖.
 - **Politics, Economics, and Finance**: My keen interest in these areas fuels my ability to dissect complex datasets, ensuring my analyses are informed by a deep understanding of the broader socio-economic and political contexts 🌍.
 
-This blend of technical proficiency and diverse interests not only amplifies my data science skillset but also makes me a versatile team member capable of crossing traditional boundaries to drive innovation. My broad knowledge base enables me to contribute uniquely to projects, particularly those at the intersection of technology and critical global issues, positioning me as a valuable asset to teams looking for dynamic and insightful expertise.
+This blend of technical proficiency and diverse interests not only amplifies my data science skill set but also makes me a versatile team member capable of crossing traditional boundaries to drive innovation. My broad knowledge base enables me to contribute uniquely to projects, particularly those at the intersection of technology and critical global issues, positioning me as a valuable asset to teams looking for dynamic and insightful expertise.
 
 ### Currently Seeking New Opportunities 🚀
 
@@ -50,19 +54,5 @@ If you're looking for a dynamic and insightful data scientist with a commitment 
 
 Feel free to explore my repositories for a glimpse into my work and the projects that I am passionate about. Let's connect and explore how data can drive decisions, shape strategies, and create value!
 
-
-
 <!--
 **IMMontoya/IMMontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
