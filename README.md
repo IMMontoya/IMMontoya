@@ -17,7 +17,7 @@ I consider myself a jack of all trades, and am not afraid to jump into areas out
 
 ### My Academic Background 🎓
 
-- **Continuing Education**: Currently enhancing my skills through an 8-month Data Science program at TripleTen Tech, focusing on Python programming, data analysis, and machine learning 🧠. You can check out my completed projects for this program [here]([https://github.com/IMMontoya/Data_projects_TripleTen](https://github.com/IMMontoya/Data_projects_TripleTen/blob/main/README.md).  
+- **Continuing Education**: Currently enhancing my skills through an 8-month Data Science program at TripleTen Tech, focusing on Python programming, data analysis, and machine learning 🧠. You can check out my completed projects for this program [here](https://github.com/IMMontoya/Data_projects_TripleTen/blob/main/README.md).  
 - **Bachelor of Arts in English Creative Writing** from Arizona State University, graduating Summa Cum Laude. My journey through literature has given me a unique perspective on storytelling, critical thinking, and effective communication ✍️.
 
 ### Professional Experience 💼
