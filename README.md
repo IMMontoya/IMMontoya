@@ -6,7 +6,7 @@ Hello! I'm Isaiah, a Data Scientist with a diverse background and broad set of d
 
 I am currently leveling up my technical skills in a big way through TripleTen's 8 month Data Science program. I'm most excited to take on the Machine Learning modules at the back end of the program, as this is something I have had interest in for years. I am bullish yet practical on AI. With all the major advancements in past year, it became obvious to me that AI will have a tremendous impact on the economy and our day-to-day lives. Does a fully automated economy sound cool to me? Sure, but I'm mostly concerned about staying relevant and empowered to navigate an ever changing world.  
 
-I consider myself a jack of all trades, and am not afraid to jump into areas outside Data Science proper, i.e. software engineering, business strategy development, marketing, and even some mechanic and electrical engineering!
+I consider myself a jack of all trades, and am not afraid to jump into areas outside Data Science proper, i.e. software engineering, business strategy development, marketing, and even some mechanical and electrical engineering!
 
 ### What I Bring to the Table 🛠️
 
