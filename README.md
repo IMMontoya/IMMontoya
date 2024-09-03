@@ -32,10 +32,10 @@ These experiences have equipped me with a solid foundation in data manipulation,
 
 My professional toolkit extends beyond data science, encompassing a wide array of additional skills and passions that enhance my analytical capabilities and contribute to a holistic approach to problem-solving:
 
-- **Music and Audio**: As a trained musician and recording engineer, I possess a nuanced understanding of sound, complementing data projects that involve audio analysis or require innovative auditory data presentations 🎵.
+- **Music and Audio**: As a trained musician and recording engineer, I possess a nuanced understanding of sound, complementing data projects that involve audio analysis or require innovative auditory data abstractions 🎵.
 - **Creativity and Artistry**: My endeavors as a musical artist, alongside my experience in poetry and fiction writing, enrich my ability to craft engaging narratives and visualize data in ways that resonate on a human level 🖌️.
 - **Microcontroller Programming**: My self-taught expertise in microcontroller programming allows me to tackle projects involving automation and robotics with a hands-on, practical approach to creating solutions 🤖.
-- **Politics, Economics, and Finance**: My keen interest in these areas fuels my ability to dissect complex datasets, ensuring my analyses are informed by a deep understanding of the broader socio-economic and political contexts 🌍.
+- **Politics, Economics, and Finance**: My interest in these areas fuels my ability to dissect complex datasets, ensuring my analyses are informed by a deep understanding of the broader socio-economic and political contexts 🌍.
 
 This blend of technical proficiency and diverse interests not only amplifies my data science skill set but also makes me a versatile team member capable of crossing traditional boundaries to drive innovation. My broad knowledge base enables me to contribute uniquely to projects, particularly those at the intersection of technology and critical global issues, positioning me as a valuable asset to teams looking for dynamic and insightful expertise.
 
@@ -50,7 +50,7 @@ If you're looking for a dynamic and insightful data scientist with a commitment 
 ### Connect With Me 📫
 
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/isaiah-montoya-317309106/)
-- **Email**: [immontoya93@gmail.com](mailto:immontoya93@gmail.com)
+- **Email**: [immontoya93@gmail.com](immontoya93@gmail.com)
 
 Feel free to explore my repositories for a glimpse into my work and the projects that I am passionate about. Let's connect and explore how data can drive decisions, shape strategies, and create value!
 
