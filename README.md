@@ -50,7 +50,7 @@ If you're looking for a dynamic and insightful data scientist with a commitment 
 ### Connect With Me 📫
 
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/isaiah-montoya-317309106/)
-- **Email**: [immontoya93@gmail.com](immontoya93@gmail.com)
+- **Email**: [immontoya93@gmail.com](mailto:immontoya93@gmail.com)
 
 Feel free to explore my repositories for a glimpse into my work and the projects that I am passionate about. Let's connect and explore how data can drive decisions, shape strategies, and create value!
 
