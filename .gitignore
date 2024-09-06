@@ -1,2 +1,5 @@
 # Hidden Files
 ._*
+
+# vscode settings
+.vscode
