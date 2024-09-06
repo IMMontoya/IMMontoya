@@ -10,7 +10,7 @@ Most recently, I have completed the Data Science Certification from TripleTen te
 
 ### What I Bring to the Table 🛠️
 
-- **A Love for Learning**: I am adept at learning new trades and skills quickly. I have successfully jumped into areas outside of Data Science proper, i.e. software engineering, business strategy development, marketing, and even some mechanical and electrical engineering. I am infinitely curious and love to nerd-out about things, so gaining domain knowledge is a natural and enjoyable process for me. 
+- **A Love for Learning**: I am adept at learning new trades and skills quickly. I have successfully jumped into areas outside of Data Science proper, i.e. software engineering, business strategy development, marketing, and even some mechanical and electrical engineering. I am infinitely curious and love to nerd-out about things, so gaining domain knowledge is a natural and enjoyable process for me.
 - **Programming Languages**: Proficient in Python 🐍, with a knack for bringing data to life through code.
 - **Data Analysis Tools**: Skilled in SQL, Excel (including VBA), Power BI, Pandas, and Tableau for comprehensive data analysis and visualization 📈.
 - **Database Management**: Experienced in managing, cleaning, and preprocessing data to keep information accurate and accessible 📚.
@@ -21,6 +21,8 @@ Most recently, I have completed the Data Science Certification from TripleTen te
 - **Data Science Certification - TripleTen Tech**: In this 680+ hour [program](https://tripleten.com/data-science/), I was able to gain years of education and hands on experience in an accelerated time frame. The coursework was challenging and comprehensive, covering topics such as advanced Python programming, exploratory data analysis, statistical data analysis, software development tools, SQL, machine learning, supervised learning, ML in business, linear algebra, numerical methods, time series analysis, ML for texts, computer vision, and unsupervised learning. This program also provided soft skills training in effective communication, task management, accepting and providing feedback, remote work, independence and cooperation, solving conflicts, and presenting ideas.  
 - **Introduction to Computer Science and Programming Using Python - MITx**: Received an A grade from this excellent Masechussets Institute of Technology course offered through EDX provided an outstanding foundation in the principals of computer science and computation thinking. I cannot suggest this course enough, so I will link it [here.](https://learning.edx.org/course/course-v1:MITx+6.00.1x+1T2023/home)  
 - **Summa Cum Laude Bachelor of Arts in English Creative Writing - Arizona State University**: My journey through literature has given me a unique perspective on storytelling, critical thinking, and effective communication. These skills give me a competative edge when it comes to translating technical solutions and insights to non-technical audiences.
+
+You can view all of my certifications in the [certifications directory](/certifications/)
 
 ### Professional Experience 💼
 
