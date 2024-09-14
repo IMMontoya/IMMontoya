@@ -3,3 +3,8 @@
 
 # vscode settings
 .vscode
+
+# QR codes (contain the string 'qrcode') in the landing_pages directory
+landing_pages/*qrcode*.*
+# QR codes in the landing_pages subdirectories
+landing_pages/*/*qrcode*.*
