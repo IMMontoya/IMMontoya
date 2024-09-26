@@ -26,7 +26,7 @@ Most recently, I have completed the data science Certification from TripleTen te
 <div style="display: flex; justify-content: space-around;">
 <img src="certifications/TripTen_Certification.gif" alt="" style="width: 49.5%; height: auto;"/>
 <!-- Next Image -->
-<img src="certifications/MITx 6.00.1x Certificate _ edX.jpg" alt="" style="width: 49.5%; height: auto;"/>
+<img src="certifications/MITx 6.00.1x Certificate _ edX_resized.jpg" alt="" style="width: 49.5%; height: auto;"/>
 </div>  
 <br>
 

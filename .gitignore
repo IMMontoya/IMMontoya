@@ -11,3 +11,5 @@
 landing_pages/*qrcode*.*
 # QR codes in the landing_pages subdirectories
 landing_pages/*/*qrcode*.*
+
+temp.ipynb
