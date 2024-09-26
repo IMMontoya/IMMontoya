@@ -23,11 +23,22 @@ Most recently, I have completed the data science Certification from TripleTen te
 - **Summa Cum Laude Bachelor of Arts in English Creative Writing - Arizona State University**: My journey through literature has given me a unique perspective on storytelling, critical thinking, and effective communication. These skills give me a competitive edge when it comes to translating technical solutions and insights to non-technical audiences.
 
 <!-- Embedded Certifications -->
+
+<!-- without centering 
 <div style="display: flex; justify-content: space-around;">
 <img src="certifications/TripTen_Certification.gif" alt="" style="width: 100%; height: auto;"/>
-<!-- Next Image -->
+<NEXT IMAGE>
 <img src="certifications/MITx 6.00.1x Certificate _ edX_resized.jpg" alt="" style="width: 100; height: auto;"/>
 </div>  
+<br>
+-->
+
+<br>
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img src="certifications/TripTen_Certification.gif" alt="Certification 1" style="width: 33%; height: auto;">
+  <img src="certifications/MITx 6.00.1x Certificate _ edX.jpg" alt="Certification 2" style="width: 33%; height: auto;">
+  <img src="certifications/Isaiah Montoya diploma.jpg" alt="Certification 2" style="width: 33%; height: auto;">
+</div>
 <br>
 
 You can view all of my certifications in the [certifications directory](/certifications/)
