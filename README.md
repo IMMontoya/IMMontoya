@@ -35,9 +35,9 @@ Most recently, I have completed the data science Certification from TripleTen te
 
 <br>
 <div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="certifications/TripTen_Certification.gif" alt="Certification 1" style="width: 33%; height: auto;">
-  <img src="certifications/MITx 6.00.1x Certificate _ edX.jpg" alt="Certification 2" style="width: 33%; height: auto;">
-  <img src="certifications/Isaiah Montoya diploma.jpg" alt="Certification 2" style="width: 33%; height: auto;">
+  <img src="certifications/TripTen_Certification.gif" alt="Certification 1" style="width: 28%; height: auto;">
+  <img src="certifications/MITx 6.00.1x Certificate _ edX.jpg" alt="Certification 2" style="width: 28%; height: auto;">
+  <img src="certifications/Isaiah Montoya diploma.jpg" alt="Certification 2" style="width: 28%; height: auto;">
 </div>
 <br>
 
