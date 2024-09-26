@@ -18,28 +18,24 @@ Most recently, I have completed the data science Certification from TripleTen te
 
 ### My Academic Background 🎓
 
-- **Data Science Certification - TripleTen Tech**: In this 680+ hour [program](https://tripleten.com/data-science/), I was able to gain years of education and hands on experience in an accelerated time frame. The coursework was challenging and comprehensive, covering topics such as advanced Python programming, exploratory data analysis, statistical data analysis, software development tools, SQL, machine learning, supervised learning, ML in business, linear algebra, numerical methods, time series analysis, ML for texts, computer vision, and unsupervised learning. This program also provided soft skills training in effective communication, task management, accepting and providing feedback, remote work, independence and cooperation, solving conflicts, and presenting ideas.  
+- **Data Science Certification - TripleTen Tech:**
+In this 680+ hour [program](https://tripleten.com/data-science/), I was able to gain years of education and hands on experience in an accelerated time frame. The coursework was challenging and comprehensive, covering topics such as advanced Python programming, exploratory data analysis, statistical data analysis, software development tools, SQL, machine learning, supervised learning, ML in business, linear algebra, numerical methods, time series analysis, ML for texts, computer vision, and unsupervised learning. This program also provided soft skills training in effective communication, task management, accepting and providing feedback, remote work, independence and cooperation, solving conflicts, and presenting ideas.  
+
+    <div style="text-align: left;">
+    <img src="certifications/TripTen_Certification.gif" alt="Certification 1" style="width: 50%; height: auto;">
+    </div>
+
 - **Introduction to Computer Science and Programming Using Python Certification - MITx**: Received an A grade from this excellent Masechussets Institute of Technology course offered through EDX. This course provided an outstanding foundation in the principals of computer science and computation thinking. I cannot suggest this course enough, so I will link it [here.](https://learning.edx.org/course/course-v1:MITx+6.00.1x+1T2023/home)  
+
+    <div style="text-align: left;">
+    <img src="certifications/MITx 6.00.1x Certificate _ edX.jpg" alt="Certification 1" style="width: 50%; height: auto;">
+    </div>
+
 - **Summa Cum Laude Bachelor of Arts in English Creative Writing - Arizona State University**: My journey through literature has given me a unique perspective on storytelling, critical thinking, and effective communication. These skills give me a competitive edge when it comes to translating technical solutions and insights to non-technical audiences.
 
-<!-- Embedded Certifications -->
-
-<!-- without centering 
-<div style="display: flex; justify-content: space-around;">
-<img src="certifications/TripTen_Certification.gif" alt="" style="width: 100%; height: auto;"/>
-<NEXT IMAGE>
-<img src="certifications/MITx 6.00.1x Certificate _ edX_resized.jpg" alt="" style="width: 100; height: auto;"/>
-</div>  
-<br>
--->
-
-<br>
-<div style="display: flex; justify-content: center; gap: 5px;">
-  <img src="certifications/TripTen_Certification.gif" alt="Certification 1" style="width: 28%; height: auto;">
-  <img src="certifications/MITx 6.00.1x Certificate _ edX.jpg" alt="Certification 2" style="width: 28%; height: auto;">
-  <img src="certifications/Isaiah Montoya diploma.jpg" alt="Certification 2" style="width: 28%; height: auto;">
-</div>
-<br>
+    <div style="text-align: left;">
+    <img src="certifications/Isaiah Montoya diploma.jpg" alt="Certification 1" style="width: 50%; height: auto;">
+    </div>
 
 You can view all of my certifications in the [certifications directory](/certifications/)
 
