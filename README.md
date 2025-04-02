@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub! 👋
 
-Hello! I'm Isaiah, a Data Scientist with a diverse background and broad set of domain knowledge. I have 3+ years experience working data and business intelligence, blended with a Summa Cum Laude degree in English Creative Writing from Arizona State University, enabling me to effectively communicate technical solutions to people of tech and non-tech backgrounds.  
+Hello! I'm Isaiah, a Data Scientist with a diverse background and broad set of domain knowledge. I have 3+ years experience working in data and business intelligence, blended with a Summa Cum Laude degree in English Creative Writing from Arizona State University, enabling me to effectively communicate technical solutions to people of tech and non-tech backgrounds.  
 
 My skills and passion for data analysis and software development grew out of necessity from working in the field. Inundated with spreadsheets, I began writing increasingly complex formulas to solve business problems. From there I was hooked. I taught myself the Visual Basic programming language and deployed complex macros that solved real-world business problems at StrataTech Education Group. By March of 2023, I was committed to a career in data and transitioning to IT. I enrolled in MIT's Introduction to Computer Science and Programming course where I gained a solid foundation in the principles of programming and the Python programming language. I quickly applied these skills in my professional life, deploying an algorithm to correctly classify the status of over 10,000 records during a data migration process, amongst many other successes.
 
