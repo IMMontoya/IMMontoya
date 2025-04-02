@@ -6,7 +6,7 @@ Hello! I'm Isaiah, a Data Scientist with a diverse background and broad set of d
 
 My skills and passion for data analysis and software development grew out of necessity from working in the field. Inundated with spreadsheets, I began writing increasingly complex formulas to solve simple business problems. From there I was hooked. I taught myself the Visual Basic programming language and deployed complex macros that solved real-world business problems at StrataTech education group. By March of 2023, I was committed to a career in data and transitioning to IT. I enrolled in MIT's Introduction to Computer Science and Programming course where I gained a solid foundation in the principles of programming and the Python programming language. I quickly applied these skills in my professional life, deploying an algorithm to correctly classify the status of over 10,000 records during a data migration process, amongst many other successes.
 
-Most recently, I have completed the data science Certification from TripleTen tech. With over 680 hours of training, I became an expert in Python, software engineering, machine learning, and neural networks. During my time in this program I completed [16 data science projects.](https://github.com/IMMontoya/Data_projects_TripleTen/blob/main/README.md)
+Most recently, I have completed the data science Certification from TripleTen tech. With over 700 hours of training, I became an expert in Python, software engineering, machine learning, and neural networks. During my time in this program I completed [16 data science projects.](https://github.com/IMMontoya/Data_projects_TripleTen/blob/main/README.md)
 
 ### What I Bring to the Table 🛠️
 
